@@ -1,4 +1,6 @@
 *.in
 *.out
 *.pyc
+*.DS_Store
+
 
